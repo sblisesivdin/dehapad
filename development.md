@@ -1,25 +1,38 @@
-[Home](index.md) | [About](about.md) | [Screenshots](screenshots.md) | [Dev](development.md) | [News](news.md) | [Manual](user_manual.md) 
+[Home](index.md) | [About](about.md) | [Screenshots](screenshots.md) | [Dev](development.md) | [Archive](archive.md) | [Manual](user_manual.md) 
 
-## Todo and Changelogs
+## Development
+
+I know, the code is quite primitive, and mostly I am coding this to myself. So there are some known bugs and lack of features. Please do not expect too many things. It is a hobby. Just control this page at a time. New versions may arrive. At least I will release a major version at every April 21st.
+
+Please report bugs and feature requests to sblisesivdin-AT-gmail.com email address.
 
 ### TODO 
 
 I know, the code is quite primitive, and mostly I am coding this to myself. So there are some known bugs and feature missings. Please do not expect too many things. It is a hobby. Just control this page at a time. New versions may arrive. 
 
 
-* Open in sidebar mode (must be with autosave)
+* Open in sidebar mode (must be with auto-save).
+* Auto highlighting for each file type.
 * Installation setup with file associations.
 * Setup file with proper file associations is included.
-* Rewrite readme.
-* BUG: When closing a non-saved file, it asks two-times to save the file.
+* "Recent files" feature.
+* Multi-file editor (Not planning in near future.)
+* Rewrite read me.
+* BUG: "Save as" is not asking nor controlling if there is existing file in that name. 
 
 
-### CHANGELOGS
+### CHANGELOG
 
 #### Development version
 * Import image (BMP2ASCII-Art)
 * Mainmenu and its properties are closed for sidebar mode. Sidebar mode is more plain now.
-* BUG SOLVED: When dehapad is closed in sidebar mode, sidebar's place stay intact. Windows can not use that space any more.
+* Border behavior changed and border icons are moved in sidebar mode.
+* Caption of the window is now showing both filename and DEHApad's name.
+* Newly designed about window.
+* URL links are corrected.
+* BUG SOLVED: When dehapad is closed in sidebar mode, sidebar's place stay intact. Windows can not use that space any more. sidebar usage is totally corrected.
+* BUG SOLVED: "New file" behavior was totally erroneous. Now it is fixed for all possible situations with saved or non-saved file with saving, not-saving and cancelling selections.  It is a huge step for the reliability of the code for daily usage.
+* BUG SOLVED: When closing a non-saved file, it asks two-times to save the file.
 
 #### Version v.4.00 - April 21st, 2019
 * .LOG support: Put .LOG in the first line of your file. It will add recent time information at the end of the file when opened.
@@ -32,8 +45,6 @@ I know, the code is quite primitive, and mostly I am coding this to myself. So t
 
 #### Version v.2.76 - January 22nd, 2018
 * Printing margins are corrected.
-* DEHApad is now distributed with GPL v.3 license.
-* COPYING.txt file, which includes GPL license information is included.
 * Highlighting for 17 different languages.
 * Setup file.
 
