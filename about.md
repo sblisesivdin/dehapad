@@ -4,8 +4,8 @@
 
 DEHApad is a really very simple - light notepad application. It is not for programmers or writers. The main feature of the program is the sidebar-behavior. Once, there was a good software called Google Desktop. And as its user, I liked it very much. In addition to showing time, hard disk or network information, most of them I liked the notepad part. I used that for years. However, Google stopped to support it. There are some sidepad applications for Windows. However, they are huge and full of non-necessary features. I wanted a notepad sitting at the side. Therefore, as an old amateur Delphi programmer, I have started to code DEHApad with open source and free state-of-art IDE Lazarus and programming language Free Pascal. This will be just a hobby. I think it will become a mature product at the end of 2017 with my personal feedback for bug-fixes. Thank you for visiting, and maybe for trying the DEHApad.
 
-If you have feedbacks and bug reports please do not hesitate to contact me:
-*sblisesivdin-AT-gmail.com*
+If you have feedbacks and bug reports please do not hesitate to contact me: sblisesivdin-AT-gmail.com
+
 ## Versioning
 For a one-man small project, I am not using traditional versioning scheme. I am simply using the following linear formula: 
 
@@ -17,19 +17,6 @@ Where *d1*, *d0* and *dstep* are version date, project starting date and version
 DEHApad Text Editor with Sidebar Behaviour
 
 Copyright (C) 2017-2018 Sefer Bora Lisesivdin
-
-   This program is free software: you can redistribute it and/or modify
-   it under the terms of the GNU General Public License as published by
-   the Free Software Foundation, either version 3 of the License, or
-   (at your option) any later version.
-
-   This program is distributed in the hope that it will be useful,
-   but WITHOUT ANY WARRANTY; without even the implied warranty of
-   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-   GNU General Public License for more details.
-
-   You should have received a copy of the GNU General Public License
-   along with this program. See ~/COPYING.txt file or http://www.gnu.org/copyleft/gpl.txt .
 
 ## Deha and Bora
 The sole programmer of DEHApad is Dr Sefer Bora Lisesivdin. Deha is his son's name :) You can see them below.
