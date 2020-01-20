@@ -1,5 +1,17 @@
 [Home](index.md) | [About](about.md) | [Screenshots](screenshots.md) | [Dev](development.md) | [News](news.md) | [Manual](user_manual.md) 
 
+
+<img align="right" src="files/DEHApad.png">
+The latest version*:
+v.4.00 (April 21st, 2019)
+
+## [Download](files/x.zip)
+Size: 1,252 KB
+
+MD5 checksum: 1e0cf71c7431e1951c0dc1841c9bd9a3
+
+*: for Microsoft Windows systems only
+
 # Features
 * **Sidebar**: With a key combination you can switch DEHApad from a text-editor to always on-top sidebar notetaker.
 * **Free**: DEHApad is distributed with GPL license. Therefore, you have freedom to modify, distribute and other possibilities. Also it is free to use (free as in beer)!
