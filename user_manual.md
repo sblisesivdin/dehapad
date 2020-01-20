@@ -1,4 +1,4 @@
-[Home](index.md) | [About](about.md) | [Screenshots](screenshots.md) | [Dev](development.md) | [News](news.md) | [Manual](user_manual.md) 
+[Home](index.md) | [About](about.md) | [Screenshots](screenshots.md) | [Dev](development.md) | [Archive](archive.md) | [Manual](user_manual.md) 
 
 ## User Manual
 
