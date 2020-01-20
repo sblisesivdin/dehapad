@@ -2,24 +2,28 @@
 
 
 <img align="right" src="files/DEHApad.png">
-The latest version*:
-v.4.00 (April 21st, 2019)
 
-## [Download](files/x.zip)
-Size: 1,252 KB
+## Download
+The latest version: v.4.00 (April 21st, 2019)
+Current version for Windows machines.
 
-MD5 checksum: 1e0cf71c7431e1951c0dc1841c9bd9a3
+**[Download](https://github.com/sblisesivdin/dehapad/blob/master/Output/DEHApad-4.00.exe)** 
 
-*: for Microsoft Windows systems only
+*Size: 1,252 KB*
+
+*MD5 checksum: 1e0cf71c7431e1951c0dc1841c9bd9a3*
 
 # Features
 * **Sidebar**: With a key combination you can switch DEHApad from a text-editor to always on-top sidebar notetaker.
-* **Free**: DEHApad is distributed with GPL license. Therefore, you have freedom to modify, distribute and other possibilities. Also it is free to use (free as in beer)!
+* **Free**: It is free to use (free as in beer)!
 * **Highlighting**: DEHApad can show your files highlighted for 17 different languages (Python, Pascal, PHP, HTML, CSS, XML, C++, Java, JavaScript, Perl, UNIX Shell, TEX, SQL, BAT, BAS, INI, PO).
 * **Options**: There are many options including different color schemes for two modes of program, printing with options.
 * **Encrypt**: You can encrypt/decrypt your text file with a single password.
 
 ## Latest News
+
+**December 2019**
+* 2020 will be the best year for DEHApad. There are already many bugs solved and new features added. They will be release at Version 5! Stay tuned for the v5 that will be released at April 21th.
 
 **April 2019**
 * Happy birthday Deha! Deha is 4 years old, today (Apr 21st). And new version of DEHApad comes with (v.4.00) with .LOG feature! Just put ".LOG" in the first line of the file. In every opening the file, recent date and time information will be added end of the file. Also, "Goto line" feature and reaching user documentation from Help menu are added.
@@ -46,13 +50,3 @@ MD5 checksum: 1e0cf71c7431e1951c0dc1841c9bd9a3
 * From now on, Deha editor's name is DApad. DA is the abbreviation of Deha Anıl. My son's name :) Also new version v.0.26.01 is out with drag-and-drop support and undo feature.
 
 [News Archive...](news.md)
-
-## Download
-The latest version: v.4.00 (April 21st, 2019)
-Current version for Windows machines.
-
-**[Download](https://github.com/sblisesivdin/dehapad/blob/master/Output/DEHApad-4.00.exe)** 
-
-*Size: 1,252 KB*
-
-*MD5 checksum: 1e0cf71c7431e1951c0dc1841c9bd9a3*
