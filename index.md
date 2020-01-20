@@ -7,7 +7,7 @@
 The latest version: v.4.00 (April 21st, 2019)
 Current version for Windows machines.
 
-**[Download](https://github.com/sblisesivdin/dehapad/blob/master/Output/DEHApad-4.00.exe)** 
+**[Download](https://github.com/sblisesivdin/dehapad/blob/master/Releases/DEHApad-4.00.exe)** 
 
 *Size: 1,252 KB*
 
