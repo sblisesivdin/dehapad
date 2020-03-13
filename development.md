@@ -34,6 +34,7 @@ I know, the code is quite primitive, and mostly I am coding this to myself. So t
 * BUG SOLVED: "New file" behavior was totally erroneous. Now it is fixed for all possible situations with saved or non-saved file with saving, not-saving and cancelling selections.  It is a huge step for the reliability of the code for daily usage.
 * BUG SOLVED: When closing a non-saved file, it asks two-times to save the file.
 * BUG SOLVED: When open without any old remembered file info, an error occured.
+* BUG SOLVED: Drag and Drop is not working properly since it is announced in v.0.26.01. It is working fine now with file remembering feature.
 
 #### Version v.4.00 - April 21st, 2019
 * .LOG support: Put .LOG in the first line of your file. It will add recent time information at the end of the file when opened.
