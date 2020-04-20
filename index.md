@@ -4,8 +4,8 @@
 <img align="right" src="files/DEHApad.png">
 
 ## Download
-The latest version: v.5.00 (April 21st, 2020)
-Current version for Windows machines.
+The latest version: **v.5.00 (April 21st, 2020)**
+Current version for Microsoft Windows OS.
 
 **[Download](https://github.com/sblisesivdin/dehapad/blob/master/Releases/DEHApad-5.00.exe)** 
 
