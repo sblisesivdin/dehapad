@@ -4,14 +4,14 @@
 <img align="right" src="files/DEHApad.png">
 
 ## Download
-The latest version: v.4.00 (April 21st, 2019)
+The latest version: v.5.00 (April 21st, 2020)
 Current version for Windows machines.
 
-**[Download](https://github.com/sblisesivdin/dehapad/blob/master/Releases/DEHApad-4.00.exe)** 
+**[Download](https://github.com/sblisesivdin/dehapad/blob/master/Releases/DEHApad-5.00.exe)** 
 
-*Size: 1,252 KB*
+*Size: 1,243 KB*
 
-*MD5 checksum: 1e0cf71c7431e1951c0dc1841c9bd9a3*
+*MD5 checksum: 6d345cd6004996fcc7f72a9bc0ea097a*
 
 # Features
 * **Sidebar**: With a key combination you can switch DEHApad from a text-editor to always on-top sidebar notetaker.
@@ -21,6 +21,9 @@ Current version for Windows machines.
 * **Encrypt**: You can encrypt/decrypt your text file with a single password.
 
 ## Latest News
+
+**April 2020**
+* Happy birthday Deha! Deha is 5 years old, today (Apr 21st). And new version of DEHApad v.5.00 comes with many new features and bug fixes. In this release, sidebar behaviours are totally changed. Also, BMP to ASCII are feature is added. It is quite interesting. Give a shot! Also many important major bug fixes are done. More information can be found in [Dev](development.md) page.
 
 **December 2019**
 * 2020 will be the best year for DEHApad. There are already many bugs solved and new features added. They will be release at Version 5! Stay tuned for the v5 that will be released at April 21th.
