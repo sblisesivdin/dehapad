@@ -2,7 +2,7 @@
 
 ## About
 
-DEHApad is a really very simple - light notepad application. It is not for programmers or writers. The main feature of the program is the sidebar-behavior. Once, there was a good software called Google Desktop. And as its user, I liked it very much. In addition to showing time, hard disk or network information, most of them I liked the notepad part. I used that for years. However, Google stopped to support it. There are some sidepad applications for Windows. However, they are huge and full of non-necessary features. I wanted a notepad sitting at the side. Therefore, as an old amateur Delphi programmer, I have started to code DEHApad with open source and free state-of-art IDE Lazarus and programming language Free Pascal. This will be just a hobby. I think it will become a mature product at the end of 2017 with my personal feedback for bug-fixes. Thank you for visiting, and maybe for trying the DEHApad.
+DEHApad is a really very simple - light notepad application. It is not for programmers or writers. The main feature of the program is the sidebar-behavior. Once, there was a good software called Google Desktop. And as its user, I liked it very much. In addition to showing time, hard disk or network information, most of them I liked the notepad part. I used that for years. However, Google stopped to support it. There are some sidepad applications for Windows. However, they are huge and full of non-necessary features. I wanted a notepad sitting at the side. Therefore, as an old amateur Delphi programmer, I have started to code DEHApad with open source and free state-of-art IDE Lazarus and programming language Free Pascal. I am a true believer of free software movement. However, I do not plan to make DEHApad open-source. This is my hobby project, and I want it to stay like this. Thanks for understanding. Thank you for visiting, and maybe for trying the DEHApad.
 
 If you have feedbacks and bug reports please do not hesitate to contact me: sblisesivdin-AT-gmail.com
 
@@ -16,7 +16,9 @@ Where *d1*, *d0* and *dstep* are version date, project starting date and version
 ## Coding and Licensing
 DEHApad Text Editor with Sidebar Behaviour
 
-Copyright (C) 2017-2018 Sefer Bora Lisesivdin
+Copyright (C) 2017-2020 Sefer Bora Lisesivdin
+
+This software is freeware.
 
 ## Deha and Bora
 The sole programmer of DEHApad is Dr Sefer Bora Lisesivdin. Deha is his son's name :) You can see them below.
