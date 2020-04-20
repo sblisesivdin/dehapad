@@ -16,7 +16,7 @@ Where *d1*, *d0* and *dstep* are version date, project starting date and version
 ## Coding and Licensing
 DEHApad Text Editor with Sidebar Behaviour
 
-Copyright (C) 2017-2020 Sefer Bora Lisesivdin
+Copyright (C) 2016-2020 Sefer Bora Lisesivdin
 
 This software is freeware.
 
