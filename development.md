@@ -24,6 +24,9 @@ I know, the code is quite primitive, and mostly I am coding this to myself. So t
 ### CHANGELOG
 
 #### Development version
+* n/a
+
+#### Version v.5.00 - April 21st, 2020
 * Import image (BMP2ASCII-Art)
 * Mainmenu and its properties are closed for sidebar mode. Sidebar mode is more plain now.
 * Border behavior changed and border icons are moved in sidebar mode.
