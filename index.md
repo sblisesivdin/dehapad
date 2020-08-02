@@ -23,7 +23,7 @@ Current version for Microsoft Windows OS.
 ## Latest News
 
 **April 2020**
-* Happy birthday Deha! Deha is 5 years old, today (Apr 21st). And new version of DEHApad v.5.00 comes with many new features and bug fixes. In this release, sidebar behaviours are totally changed. Also, BMP to ASCII are feature is added. It is quite interesting. Give a shot! Also many important major bug fixes are done. More information can be found in [Dev](development.md) page.
+* Happy birthday Deha! Deha is 5 years old, today (Apr 21st). And new version of DEHApad v.5.00 comes with many new features and bug fixes. In this release, sidebar behaviours are totally changed. Also, BMPtoASCII feature is added. It is quite interesting. Give a shot! Also many important major bug fixes are done. More information can be found in [Dev](development.md) page.
 
 **December 2019**
 * 2020 will be the best year for DEHApad. There are already many bugs solved and new features added. They will be release at Version 5! Stay tuned for the v5 that will be released at April 21th.
