@@ -11,7 +11,7 @@ Please report bugs and feature requests to sblisesivdin-AT-gmail.com email addre
 I know, the code is quite primitive, and mostly I am coding this to myself. So there are some known bugs and feature missings. Please do not expect too many things. It is a hobby. Just control this page at a time. New versions may arrive. 
 
 
-* Open in sidebar mode (must be with auto-save).
+* Need to change SVariables (Sidebar mode era) to DVariables.
 * Auto highlighting for each file type.
 * Installation setup with file associations.
 * Setup file with proper file associations is included.
@@ -24,7 +24,7 @@ I know, the code is quite primitive, and mostly I am coding this to myself. So t
 ### CHANGELOG
 
 #### Development version
-* n/a
+* Sidebar behaviour is changed to a fullpage distraction-free mode.
 
 #### Version v.5.00 - April 21st, 2020
 * Import image (BMP2ASCII-Art)
