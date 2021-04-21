@@ -1,4 +1,4 @@
-# dehapad
-A Windows Text Editor with Sidebar Feature
+# DEHApad
+A Windows Text Editor with Distraction-Free Mode
 
 https://sblisesivdin.github.io/dehapad/
