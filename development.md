@@ -24,7 +24,11 @@ I know, the code is quite primitive, and mostly I am coding this to myself. So t
 ### CHANGELOG
 
 #### Development version
-* Sidebar behaviour is changed to a fullpage distraction-free mode.
+* Version 7 will be totally re-written in Python. Version 6 was the latest version that was written in Pascal.
+
+#### Version v.6.00 - April 21st, 2021
+* Sidebar behaviour is changed to a fullpage distraction-free mode. It was a major change in the code.
+* Necessary changes in the README.txt and session.ini files.
 
 #### Version v.5.00 - April 21st, 2020
 * Import image (BMP2ASCII-Art)
