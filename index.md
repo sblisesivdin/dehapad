@@ -4,7 +4,7 @@
 <img align="right" src="files/DEHApad.png">
 
 ## Download
-The latest version: **v.6.00 (April 21st, 2020)**
+The latest version: **v.6.00 (April 21st, 2021)**
 Current version for Microsoft Windows OS.
 
 **[Download](https://github.com/sblisesivdin/dehapad/blob/master/Releases/DEHApad-6.00.exe)** 
@@ -45,4 +45,4 @@ Current version for Microsoft Windows OS.
 * New version (v. 2.52) with some windows corrections, and error prevention. DEHApad can open now without setting file. It can create its own settings file if necessary. In addition, it is compiled with the latest version of FPC. 
 
 
-[News Archive...](news.md)
+[News Archive...](archive.md)
