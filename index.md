@@ -1,7 +1,7 @@
 [Home](index.md) | [About](about.md) | [Screenshots](screenshots.md) | [Dev](development.md) | [Archive](archive.md) | [Manual](user_manual.md) 
 
 
-<img align="right" src="files/DEHApad.png">
+<img align="right" src="screenshots/Screenshot_v.6.0.png">
 
 ## Download
 The latest version: **v.6.00 (April 21st, 2021)**
