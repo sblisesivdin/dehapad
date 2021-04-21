@@ -4,24 +4,28 @@
 <img align="right" src="files/DEHApad.png">
 
 ## Download
-The latest version: **v.5.00 (April 21st, 2020)**
+The latest version: **v.6.00 (April 21st, 2020)**
 Current version for Microsoft Windows OS.
 
-**[Download](https://github.com/sblisesivdin/dehapad/blob/master/Releases/DEHApad-5.00.exe)** 
+**[Download](https://github.com/sblisesivdin/dehapad/blob/master/Releases/DEHApad-6.00.exe)** 
 
-*Size: 1,243 KB*
+*Size: 1,333 KB*
 
-*MD5 checksum: 6d345cd6004996fcc7f72a9bc0ea097a*
+*MD5 checksum: 8bcfb666cba33e489d0dca767d035163*
 
 # Features
-* **Sidebar**: With a key combination you can switch DEHApad from a text-editor to always on-top sidebar notetaker.
+* **Distraction-Free Mode**: With a key combination you can switch DEHApad from a text-editor to distraction-free writer.
 * **Free**: It is free to use (free as in beer)!
 * **Highlighting**: DEHApad can show your files highlighted for 17 different languages (Python, Pascal, PHP, HTML, CSS, XML, C++, Java, JavaScript, Perl, UNIX Shell, TEX, SQL, BAT, BAS, INI, PO).
 * **Options**: There are many options including different color schemes for two modes of program, printing with options.
 * **Encrypt**: You can encrypt/decrypt your text file with a single password.
+* **ASCII Art**: You can import BMP pictures to your text files as ASCII art!
 
 ## Latest News
 
+**April 2021**
+* Happy birthday Deha! Deha is 6 years old, today (Apr 21st). And new version of DEHApad v.6.00 comes in order. In this release, sidebar behaviour is changed to a distraction-free mode. Sidebar mode becomes problematic with each new Windows 10 update. Therefore, code is changed to have a distraction-free mode, instead of having a sidebar. More information can be found in [Dev](development.md) page. BTW, this was the last version of DEHApad that is written in Freepascal/Lazarus. FP/L has been done its mission well to me in the last decade. Even, I used it in my company. However, time is changed and I am mostly using Python for my needs. So it is time to move my hobby code to Python! I will try to move all current features of DEHApad 6 to version 7. I do not plan to announce a new version until Apr 21st, 2022. If someone uses DEHApad, they must know this :)
+ 
 **April 2020**
 * Happy birthday Deha! Deha is 5 years old, today (Apr 21st). And new version of DEHApad v.5.00 comes with many new features and bug fixes. In this release, sidebar behaviours are totally changed. Also, BMPtoASCII feature is added. It is quite interesting. Give a shot! Also many important major bug fixes are done. More information can be found in [Dev](development.md) page.
 
@@ -40,16 +44,5 @@ Current version for Microsoft Windows OS.
 **October 2017**
 * New version (v. 2.52) with some windows corrections, and error prevention. DEHApad can open now without setting file. It can create its own settings file if necessary. In addition, it is compiled with the latest version of FPC. 
 
-**July 2017**
-* New version (v. 2.12) with auto open last file, and right popup menu support. Additionally, form behaviors, open file, save file behaviors are corrected. 
-
-**April 2017**
-* New version of DEHApad is released! It's a total major change. Nearly a total rewrite. There are many features added. Also, many things changed and some bugs fixed. More information can be found at here. Because of new version scheme is used, version is 2.0. Happy birthday Deha!
-
-**February 2017**
-* OK. After changing the name to DApad, I couldn't get used to this name. Therefore, I am changing it again! Now it is DEHApad. Webpage is located at http://dehapad.lrgresearch.org
-
-**January 2017**
-* From now on, Deha editor's name is DApad. DA is the abbreviation of Deha Anıl. My son's name :) Also new version v.0.26.01 is out with drag-and-drop support and undo feature.
 
 [News Archive...](news.md)
