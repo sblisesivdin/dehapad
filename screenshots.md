@@ -1,7 +1,7 @@
 [Home](index.md) | [About](about.md) | [Screenshots](screenshots.md) | [Dev](development.md) | [Archive](archive.md) | [Manual](user_manual.md) 
 
 ## v.6.0 - April 21st, 2021.
-<img align="right" src="screenshots/Screenshot_v6.0.png">
+<img align="right" src="screenshots/Screenshot_v.6.0.png">
 
 
 ## v.5.0 - April 21st, 2020.
